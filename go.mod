@@ -1,4 +1,4 @@
-module github.com/samber/oops
+module github.com/MathGaps/oops
 
 go 1.21
 
